@@ -19,7 +19,12 @@ riddle_property
 // 队列参数
     
     成语玩家基础属性
-    qNum 关卡数
+        qNum 关卡数
+        energy 体力/能量
+        videoAdCount 看视频广告的数量
+        webAdCount   看插屏广告的数量
+    
+    记录获取门客
 
     //  更新用户数据用
     format=Q_M_GAME_USER&virtualHost=DataCenter
